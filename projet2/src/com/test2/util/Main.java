@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("yo c'est Younes qui écrit");
 		String yo = "Testons si ça marche";
 		System.out.println(yo);
+		String string = new String;
 
 	}
 
